@@ -28,5 +28,12 @@
 ## chapter3 表格型方法
 
   ### video：
+  [Lesson2-1-MDP、Q表格](https://aistudio.baidu.com/aistudio/education/lessonvideo/2644002)
+  
+  [Lesson2-2-强化概念、TD更新等](https://aistudio.baidu.com/aistudio/education/lessonvideo/413825)
+  
+  [Lesson2-3-Sarsa算法介绍](https://aistudio.baidu.com/aistudio/education/lessonvideo/413834)
+  
+  [Lesson-2-4-Qlearning](https://aistudio.baidu.com/aistudio/education/lessonvideo/413844)
   
   
