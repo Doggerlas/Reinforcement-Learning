@@ -1,9 +1,9 @@
 # Reinforcement-Learning
-2022上半年强化学习自学
+## 2022上半年强化学习自学
 
 教材：[蘑菇书](https://github.com/datawhalechina/easy-rl)
 
-chapter1 强化学习概述
+# chapter1 强化学习概述
 
   video：
   
@@ -11,7 +11,7 @@ chapter1 强化学习概述
   
   [强化学习纲要 第一课 概括与基础 下](https://www.bilibili.com/video/BV1g7411Z7SJ?spm_id_from=333.999.0.0)
 
-chapter2 马尔科夫决策过程
+# chapter2 马尔科夫决策过程
 
   video:
   
@@ -25,7 +25,7 @@ chapter2 马尔科夫决策过程
   
   [强化学习(二)：马尔科夫决策过程(Markov decision process)](https://blog.csdn.net/liweibin1994/article/details/79079884?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ETopBlog-1.topblog&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ETopBlog-1.topblog&utm_relevant_index=1)
   
-chapter3 表格型方法
+# chapter3 表格型方法
 
   video：
   
