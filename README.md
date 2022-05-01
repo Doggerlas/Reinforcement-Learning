@@ -36,4 +36,8 @@
   
   [Lesson-2-4-Qlearning](https://aistudio.baidu.com/aistudio/education/lessonvideo/413844)
   
+  ### supplement：
+  
+  [【强化学习】读书手札：动态规划(DP)&蒙特卡洛(MC)&时序差分(TD)区别](https://zstar.blog.csdn.net/article/details/122795253?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.pc_relevant_aa&utm_relevant_index=1
+  )
   
