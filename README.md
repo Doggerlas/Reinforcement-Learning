@@ -38,9 +38,6 @@
   
   ### supplement：
   
-  [【强化学习】读书手札：动态规划(DP)&蒙特卡洛(MC)&时序差分(TD)区别](https://zstar.blog.csdn.net/article/details/122795253?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.pc_relevant_aa&utm_relevant_index=1
-  )
+  [python 实现 saras 例一](https://www.cnblogs.com/hhh5460/p/10146554.html)
   
-  [世界冠军带你从零实践强化学习心得](https://star2dust.github.io/parl-notes/)
-  
-  [从零实践强化学习之RL初印象(GYM+PARL)](https://blog.csdn.net/zbp_12138/article/details/106800911)
+  [用pandas 与 numpy 分别实现 q-learning, saras, saras(lambda)算法 ](https://www.cnblogs.com/hhh5460/p/10159331.html)
